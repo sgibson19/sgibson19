@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, am Gibson Sanchez.
 
 <!--
 **sgibson19/sgibson19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Recently graduated from CUNY Baruch College
+* Love to tinker with all kinds of technologies
+* Have mostly used the MERN stack for my projects
+* I'm currently learning more about Linux, Vim, and other backend technologies.
