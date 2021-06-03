@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* Currently a Fellow at Major League Hacking
 * Recently graduated from CUNY Baruch College
 * Love to tinker with all kinds of technologies
 * Have mostly used the MERN stack for my projects
