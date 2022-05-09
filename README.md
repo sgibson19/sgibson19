@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 * Open Source enthusiast
-* Recently graduated from CUNY Baruch College
 * Love to tinker with all kinds of technologies
-* Have mostly used the MERN stack for my projects
-* I'm currently learning more about Linux, Vim, and other backend technologies.
+* Linux enthusiast
